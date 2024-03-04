@@ -9,7 +9,7 @@
 ![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-https://img.shields.io/badge/Python-ffd94a
+![PYTHON] (https://img.shields.io/badge/Python-ffd94a)
 
 ## Welcome to My Data Analysis & Business Insights Repository!
 
