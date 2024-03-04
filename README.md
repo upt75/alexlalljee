@@ -19,7 +19,7 @@
 
 ## Welcome to My Data Analysis & Business Insights Repository!
 
-Hi, my names <b>Alex Lalljee</b> and I'm a <b>Micrsoft Certified : Power BI Data Analyst Associate</b>. Here you’ll discover a collection of Power BI projects and interactive dashboards that showcase my expertise in data visualization, business intelligence, and analytics. As a passionate data enthusiast, I thrive on transforming raw data into actionable insights.
+Hi, my name's <b>Alex Lalljee</b> and I'm a <b>Microsoft Certified : Power BI Data Analyst Associate</b>. Here you’ll discover a collection of Power BI projects and interactive dashboards that showcase my expertise in data visualization, business intelligence, and analytics. As a passionate data enthusiast, I thrive on transforming raw data into actionable insights.
 
 ## What You’ll Find:
 Data Visualization: Explore visually compelling reports and visualizations that bring data to life. From bar charts to heatmaps, I’ve harnessed the power of Power BI to create engaging displays.
