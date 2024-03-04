@@ -17,7 +17,7 @@
 
 
 
-## Welcome to My Data Analysis & Business Insights Repository!
+## Welcome to my Data Analysis & Business Insights Repository!
 
 Hi, my name's <strong>Alex Lalljee</strong> and I'm a <strong>Microsoft Certified : Power BI Data Analyst Associate</strong>. Here you’ll discover a collection of Power BI projects and interactive dashboards that showcase my expertise in data visualization, business intelligence, and analytics. As a passionate data enthusiast, I thrive on transforming raw data into actionable insights.
 
