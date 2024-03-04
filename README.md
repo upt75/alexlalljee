@@ -19,7 +19,7 @@
 
 ## Welcome to My Data Analysis & Business Insights Repository!
 
-Here you’ll discover a curated collection of Power BI projects and interactive dashboards that showcase my expertise in data visualization, business intelligence, and analytics. As a passionate data enthusiast, I thrive on transforming raw data into actionable insights.
+Hi, my names Alex Lalljee and I'm a Micrsoft Certified : Power BI Data Analyst Associate. Here you’ll discover a curated collection of Power BI projects and interactive dashboards that showcase my expertise in data visualization, business intelligence, and analytics. As a passionate data enthusiast, I thrive on transforming raw data into actionable insights.
 
 ## What You’ll Find:
 Data Visualization: Explore visually compelling reports and visualizations that bring data to life. From bar charts to heatmaps, I’ve harnessed the power of Power BI to create engaging displays.
@@ -37,6 +37,6 @@ With over 25 years of experience in the travel industry and a recent transition 
 
 My extensive background in the travel sector has given me a deep understanding of the industry’s dynamics, while my training in data analytics allows me to extract valuable insights from complex data sets. As a strategic thinker and practical implementer, I have a proven track record in the school travel market and tourism industry. I am self-motivated, pragmatic, and resilient, with an entrepreneurial spirit and a growth mindset. I am comfortable in both field and office environments and have a history of developing strong working relationships.
 
-In the past year, I have focused on developing my technical skills, completing a Data Science Bootcamp at La Wagon and a course in Power BI at datacamp.com. I am proficient in Python, SQL, Numpy, Pandas, and Jupyter notebooks. I have also gained practical experience as an In-Ground Data Analyst at Stats Perform, where I was responsible for data collection and analytics.
+In the past year, I have focused on developing my technical skills, completing a Data Science Bootcamp at La Wagon and a course in Power BI at datacamp.com. I have then gone on to become a Microsoft Certified: Power BI Data Analyst Assocaite. I am also proficient in Python, SQL, Numpy, Pandas, and Jupyter notebooks. I have ained practical experience w an In-Ground Data Analyst at Stats Perform, where I was responsible for data collection and analytics.
 
 I am now seeking opportunities as a freelance consultant, where I can apply my data analytics skills to help businesses make data-driven decisions. While I am particularly interested in roles within the travel sector, I am open to opportunities in other industries as well.
