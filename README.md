@@ -23,9 +23,13 @@ Here you’ll discover a curated collection of Power BI projects and interactive
 
 ## What You’ll Find:
 Data Visualization: Explore visually compelling reports and visualizations that bring data to life. From bar charts to heatmaps, I’ve harnessed the power of Power BI to create engaging displays.
+
 Business Intelligence: Dive into my analyses of complex datasets. Whether it’s sales trends, customer behaviour, or operational efficiency, I’ve leveraged Power BI to uncover valuable business insights.
+
 Effective Communication: I believe that data storytelling is an art. Through intuitive dashboards, I’ve effectively communicated intricate data concepts to stakeholders, enabling informed decision-making.
+
 As you explore this portfolio, you’ll witness my commitment to excellence in Power BI. Whether you’re a fellow data enthusiast, a recruiter, or a potential collaborator, I invite you to delve into the world of data-driven possibilities.
+
 Feel free to connect with me—I’m always eager to discuss data challenges, collaborate on projects, or simply share insights over a virtual coffee!
 
 ## About Me
