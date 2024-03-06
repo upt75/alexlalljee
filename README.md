@@ -42,7 +42,7 @@ I am now seeking opportunities as a freelance consultant, where I can apply my d
 
 ## E-commerce project
 
-https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9
+[Project Link](https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9){:target="_blank"} 
 
 ### Objective:
 Explore a real-world dataset to uncover insights for an online pet supply company.
