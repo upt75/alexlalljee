@@ -38,3 +38,24 @@ My extensive background in the travel sector has given me a deep understanding o
 In the past year, I have focused on developing my technical skills, completing a Data Science Bootcamp at La Wagon and a course in Power BI at datacamp.com. I have then gone on to become a Microsoft Certified: Power BI Data Analyst Assocaite. I am also proficient in Python, SQL, Numpy, Pandas, and Jupyter notebooks. I have ained practical experience w an In-Ground Data Analyst at Stats Perform, where I was responsible for data collection and analytics.
 
 I am now seeking opportunities as a freelance consultant, where I can apply my data analytics skills to help businesses make data-driven decisions. While I am particularly interested in roles within the travel sector, I am open to opportunities in other industries as well.
+
+
+## E-commerce project
+
+### Objective:
+Explore a real-world dataset to uncover insights for an online pet supply company.
+
+### Approach:
+Data Cleaning: Use Power Query to investigate and clean the data, revealing sales performance and customer locations.
+Visualization: Employ DAX to build insightful visualizations.
+Dashboard Creation: Utilize Power BI to create dashboard-style pages for answering executive team questions.
+
+### Key Steps:
+Data Model: Construct a data model for sales and expense analysis.
+Metrics: Create metrics for customers, orders, and frequently purchased products.
+Profitability: Identify the most profitable products and customers.
+Geospatial Analysis: Build a state-wise sales map.
+Shipping Costs: Explore shipping cost metrics.
+What-If Analysis: Assess the impact of shipping higher quantities on costs.
+Final Chapter: Develop multiple dashboard-style pages to tell a data story for the board
+Recommendations: Propose specific actions to reduce shipping expenses.
