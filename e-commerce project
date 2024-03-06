@@ -1,14 +1,14 @@
-#E-commerce project
+# E-commerce project
 
-##Objective:
+## Objective:
 Explore a real-world dataset to uncover insights for an online pet supply company.
 
-##Approach:
+## Approach:
 Data Cleaning: Use Power Query to investigate and clean the data, revealing sales performance and customer locations.
 Visualization: Employ DAX to build insightful visualizations.
 Dashboard Creation: Utilize Power BI to create dashboard-style pages for answering executive team questions.
 
-##Key Steps:
+## Key Steps:
 Data Model: Construct a data model for sales and expense analysis.
 Metrics: Create metrics for customers, orders, and frequently purchased products.
 Profitability: Identify the most profitable products and customers.
