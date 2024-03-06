@@ -40,3 +40,6 @@ My extensive background in the travel sector has given me a deep understanding o
 In the past year, I have focused on developing my technical skills, completing a Data Science Bootcamp at La Wagon and a course in Power BI at datacamp.com. I have then gone on to become a Microsoft Certified: Power BI Data Analyst Assocaite. I am also proficient in Python, SQL, Numpy, Pandas, and Jupyter notebooks. I have ained practical experience w an In-Ground Data Analyst at Stats Perform, where I was responsible for data collection and analytics.
 
 I am now seeking opportunities as a freelance consultant, where I can apply my data analytics skills to help businesses make data-driven decisions. While I am particularly interested in roles within the travel sector, I am open to opportunities in other industries as well.
+
+<iframe src="https://app.powerbi.com/reportEmbed?reportId=0de1c056-6234-486d-894f-467fc6fccf60&autoAuth=true&ctid=225f31e7-8e13-4bf8-b75b-66f710ac2622" width="800" height="600"></iframe>
+
