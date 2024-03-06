@@ -42,6 +42,9 @@ I am now seeking opportunities as a freelance consultant, where I can apply my d
 
 ## E-commerce project
 
+To open the link in a new tab - Windows & Linux users hold down Ctrl while clicking the link, Mac users hold down Cmd
+Report navigation is bottom centre of the page
+
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Project link</a>
 
 ### Objective:
