@@ -42,6 +42,8 @@ I am now seeking opportunities as a freelance consultant, where I can apply my d
 
 ## E-commerce project
 
+<iframe title="ecommerce_analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 ### Objective:
 Explore a real-world dataset to uncover insights for an online pet supply company.
 
