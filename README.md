@@ -48,15 +48,15 @@ To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> whil
 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Project link</a>
 
-### Objective:
-<p>Explore a real-world dataset to uncover insights for an online pet supply company.</p>
+## Objective:
+Explore a real-world dataset to uncover insights for an online pet supply company.
 
-### Approach:
+## Approach:
 Data Cleaning: Use Power Query to investigate and clean the data, revealing sales performance and customer locations.<br>
 Visualization: Employ DAX to build insightful visualizations.<br>
 Dashboard Creation: Utilize Power BI to create dashboard-style pages for answering executive team questions.<br>
 
-### Key Steps:
+## Key Steps:
 Data Model: Construct a data model for sales and expense analysis.<br>
 Metrics: Create metrics for customers, orders, and frequently purchased products.<br>
 Profitability: Identify the most profitable products and customers.<br>
