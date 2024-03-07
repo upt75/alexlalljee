@@ -66,4 +66,4 @@ Profitability: Identify the most profitable products and customers.<br>
 Geospatial Analysis: Build a state-wise sales map.<br>
 Shipping Costs: Explore shipping cost metrics.<br>
 What-If Analysis: Assess the impact of shipping higher quantities on costs.<br>
-Final Chapter: Development of multiple dashboard-style pages to tell the data story for the board with recommendations of XXXX to recude shipping costs<b>
+Recommendations: Future cross-sale promotions, logistics related to shipping items and additional opportunities to reduce operating costs.<b>
