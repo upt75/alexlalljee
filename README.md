@@ -40,13 +40,13 @@ In the past year, I have focused on developing my technical skills, completing a
 I am now seeking opportunities as a freelance consultant, where I can apply my data analytics skills to help businesses make data-driven decisions. While I am particularly interested in roles within the travel sector, I am open to opportunities in other industries as well.
 
 
-### E-commerce project
+## E-commerce project
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
 <b>Report navigation is bottom centre of the page</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Project link</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">E-Commerce Project Link</a>
 
 ### Objective:
 
@@ -67,3 +67,31 @@ Geospatial Analysis: Build a state-wise sales map.<br>
 Shipping Costs: Explore shipping cost metrics.<br>
 What-If Analysis: Assess the impact of shipping higher quantities on costs.<br>
 Recommendations: Future cross-sale promotions, logistics related to shipping items and additional opportunities to reduce operating costs.<b>
+
+
+## HR Analytics
+
+To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
+
+<b>Report navigation is bottom centre of the page</b>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjdjYmY3M2EtZGY5Mi00NzQyLWIxNGItZDYzZmVmZDczZTZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">HR Project Link</a>
+
+### Objective:
+
+Explore a dataset to analyze Human Resources data using Power BI.
+
+### Approach:
+
+Data Import & EDA: Bring all data into Power BI and connect the data model.<br>
+Attrition Focus: Investigate attrition factors to retain more employees.<br>
+Report Delivery: Prepare to deliver insights to key stakeholders.<br>
+
+### Key Steps:
+
+Data Model: Construct a data model for sales and expense analysis.<br>
+Metrics: Create metrics for general HR trends through exploratory data analysis.<br>
+DAX Insights: Utilize DAX to extract insights and build custom visuals.<br>
+Attrition and performance focus: Create appropriate visuals to display key metrics for these areas.<br>
+Outcome: interactive and reusable report to support employee management and assist recruitment.<br>
+
