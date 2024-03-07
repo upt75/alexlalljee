@@ -66,7 +66,7 @@ Profitability: Identify the most profitable products and customers.<br>
 Geospatial Analysis: Build a state-wise sales map.<br>
 Shipping Costs: Explore shipping cost metrics.<br>
 What-If Analysis: Assess the impact of shipping higher quantities on costs.<br>
-Recommendations: Future cross-sale promotions, logistics related to shipping items and additional opportunities to reduce operating costs.<b>
+Recommendations: Future cross-sale promotions, logistics related to shipping items and additional opportunities to reduce operating costs.<br>
 
 
 ## HR Analytics
@@ -95,3 +95,44 @@ DAX Insights: Utilize DAX to extract insights and build custom visuals.<br>
 Attrition and performance focus: Create appropriate visuals to display key metrics for these areas.<br>
 Outcome: interactive and reusable report to support employee management and assist recruitment.<br>
 
+
+## Competitor Analysis
+
+To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
+
+<b>Report navigation is bottom centre of the page</b>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzk0MTg2NzYtNGVjMS00NDQzLWFhMmMtMzA4NDJiOTk0MmZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">HR Project Link</a>
+
+### Objective:
+
+Apply ETL (Extract, Transform, Load) and visualization concepts for sales and market share analysis
+
+### Approach:
+Data Integration: Use Power BI and Power Query Editor to integrate data from multiple sources.
+Data Transformation: Clean, mash up, and model the data.
+Visualization: Create a comprehensive Power BI report.
+
+### Sales and Market Share Analysis:
+Internally: Assess product sales performance.
+Externally: Compare against competing manufacturers.
+
+### Business Insights:
+Full understand the companys position in the market.
+Strengthen the understanding of competitor sales analysis.
+
+### Key Steps:
+Data Exploration and Integration:
+Explore and integrate the dataset into Power BI.
+Address challenges with uncleaned data.
+Clean and prepare data using Power Query Editor.
+
+Common Data Model and Manufacturer Analysis:
+Build a common data model.
+Analyze manufacturer product growth.
+Compare the manufacturer with competitors across geographies.
+
+Dynamic Reporting and Storytelling:
+Enhance Power BI report dynamics.
+Use images, navigation, and advanced visuals to improve stakeholder understanding.
+Craft a data-driven story for end users’ informed decisions.
