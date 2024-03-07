@@ -52,16 +52,15 @@ To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> whil
 Explore a real-world dataset to uncover insights for an online pet supply company.
 
 ### Approach:
-Data Cleaning: Use Power Query to investigate and clean the data, revealing sales performance and customer locations.
-Visualization: Employ DAX to build insightful visualizations.
-Dashboard Creation: Utilize Power BI to create dashboard-style pages for answering executive team questions.
+Data Cleaning: Use Power Query to investigate and clean the data, revealing sales performance and customer locations.<br>
+Visualization: Employ DAX to build insightful visualizations.<br>
+Dashboard Creation: Utilize Power BI to create dashboard-style pages for answering executive team questions.<br>
 
 ### Key Steps:
-Data Model: Construct a data model for sales and expense analysis.
-Metrics: Create metrics for customers, orders, and frequently purchased products.
-Profitability: Identify the most profitable products and customers.
-Geospatial Analysis: Build a state-wise sales map.
-Shipping Costs: Explore shipping cost metrics.
-What-If Analysis: Assess the impact of shipping higher quantities on costs.
-Final Chapter: Develop multiple dashboard-style pages to tell a data story for the board
-Recommendations: Propose specific actions to reduce shipping expenses.
+Data Model: Construct a data model for sales and expense analysis.<br>
+Metrics: Create metrics for customers, orders, and frequently purchased products.<br>
+Profitability: Identify the most profitable products and customers.<br>
+Geospatial Analysis: Build a state-wise sales map.<br>
+Shipping Costs: Explore shipping cost metrics.<br>
+What-If Analysis: Assess the impact of shipping higher quantities on costs.<br>
+Final Chapter: Development of multiple dashboard-style pages to tell the data story for the board with recommendations of XXXX to recude shipping costs<b>
