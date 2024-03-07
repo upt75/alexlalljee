@@ -49,9 +49,11 @@ To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> whil
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Project link</a>
 
 ### Objective:
-<span style="font-weight: normal">
+
+Does this make any difference to the weight of font
+
 Explore a real-world dataset to uncover insights for an online pet supply company.
-</span>
+
 ### Approach:
 
 Data Cleaning: Use Power Query to investigate and clean the data, revealing sales performance and customer locations.<br>
