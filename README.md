@@ -102,7 +102,7 @@ To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> whil
 
 <b>Report navigation is bottom centre of the page</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMzk0MTg2NzYtNGVjMS00NDQzLWFhMmMtMzA4NDJiOTk0MmZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">HR Project Link</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzk0MTg2NzYtNGVjMS00NDQzLWFhMmMtMzA4NDJiOTk0MmZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Competitor Analysis Project Link</a>
 
 ### Objective:
 
