@@ -64,9 +64,8 @@ Recommendations: Future cross-sale promotions, logistics related to shipping ite
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
-<b>Report navigation is bottom centre of the page</b>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">E-Commerce Project Link</a> <b>Report navigation is bottom centre of the page</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">E-Commerce Project Link</a>
 
 
 
