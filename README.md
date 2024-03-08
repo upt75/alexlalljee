@@ -69,13 +69,8 @@ To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> whil
 <a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">E-Commerce Project Link</a>
 
 
+
 ## HR Analytics
-
-To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
-
-<b>Report navigation is bottom centre of the page</b>
-
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMjdjYmY3M2EtZGY5Mi00NzQyLWIxNGItZDYzZmVmZDczZTZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">HR Project Link</a>
 
 ### Objective:
 
@@ -95,14 +90,15 @@ DAX Insights: Utilize DAX to extract insights and build custom visuals.<br>
 Attrition and performance focus: Create appropriate visuals to display key metrics for these areas.<br>
 Outcome: interactive and reusable report to support employee management and assist recruitment.<br>
 
-
-## Competitor Analysis
-
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
 <b>Report navigation is bottom centre of the page</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMzk0MTg2NzYtNGVjMS00NDQzLWFhMmMtMzA4NDJiOTk0MmZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Competitor Analysis Project Link</a>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMjdjYmY3M2EtZGY5Mi00NzQyLWIxNGItZDYzZmVmZDczZTZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">HR Project Link</a>
+
+
+
+## Competitor Analysis
 
 ### Objective:
 
@@ -136,3 +132,9 @@ Dynamic Reporting and Storytelling:
 Enhance Power BI report dynamics.
 Use images, navigation, and advanced visuals to improve stakeholder understanding.
 Craft a data-driven story for end users’ informed decisions.
+
+To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
+
+<b>Report navigation is bottom centre of the page</b>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzk0MTg2NzYtNGVjMS00NDQzLWFhMmMtMzA4NDJiOTk0MmZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Competitor Analysis Project Link</a>
