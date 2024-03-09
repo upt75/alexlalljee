@@ -39,6 +39,28 @@ In the past year, I have focused on developing my technical skills, completing a
 
 I am now seeking opportunities as a freelance consultant, where I can apply my data analytics skills to help businesses make data-driven decisions. While I am particularly interested in roles within the travel sector, I am open to any opportunities.
 
+## Airbnb Listing Analysis
+
+### Objective:
+
+Explore a large real-world dataset of circa 250k Listings and 5m Reviews to uncover insights on rental properties and locations on one of the worlds largest online marketplaces.<br>
+
+### Approach:
+
+Data Cleaning: Use Power Query to investigate and clean the data.<br>
+Visualization: Employ DAX to build insightful metrics for visualizations.<br>
+Dashboard Creation: Utilize Power BI to create a dashboard-style page with Q&A option.<br>
+
+### Key Steps:
+
+Exploratory Data Analysis: Review the datasets for quality, profile and distribution.<br>
+Metrics: Create metrics for listings, price and review categories.<br>
+Visuals: Create a map visual, review table, and cards with key metrics.<br>
+Key Observation: There are a number of outliers in the price category that effect average price so it's important to consider both average and median price when considering location/budget.<br>
+
+To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
+
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTg2NjhiMmItMGQzYS00NDQ3LWE2MjgtYTdmYWYxYWIxODcwIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Airbnb Project Link</a> <br>
 
 ## E-commerce project
 
