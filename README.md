@@ -47,7 +47,7 @@ Explore a large real-world dataset of circa 250k Listings and 5m Reviews to unco
 
 ### Approach:
 
-Dataset: To avoid performance issues the dataset was filtered to Paris only
+Dataset: To avoid performance issues the dataset was filtered to Paris only.<br>
 Data Cleaning: Use Power Query to investigate and clean the data.<br>
 Visualization: Employ DAX to build insightful metrics for visualizations.<br>
 Dashboard Creation: Utilize Power BI to create a dashboard-style page, informative for the user and with practical search and reset.<br>
