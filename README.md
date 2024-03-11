@@ -47,16 +47,17 @@ Explore a large real-world dataset of circa 250k Listings and 5m Reviews to unco
 
 ### Approach:
 
+Dataset: To avoid performance issues the dataset was filtered to Paris only
 Data Cleaning: Use Power Query to investigate and clean the data.<br>
 Visualization: Employ DAX to build insightful metrics for visualizations.<br>
-Dashboard Creation: Utilize Power BI to create a dashboard-style page with Q&A option.<br>
+Dashboard Creation: Utilize Power BI to create a dashboard-style page, informative for the user and with practical search and reset.<br>
 
 ### Key Steps:
 
-Exploratory Data Analysis: Review the datasets for quality, profile and distribution.<br>
+Exploratory Data Analysis: Review the datasets for quality, profile and distribution. Reduce dataset.<br>
 Metrics: Create metrics for listings, price and review categories.<br>
 Visuals: Create a map visual, review table, and cards with key metrics.<br>
-Key Observation: There are a number of outliers in the price category that effect average price so it's important to consider both average and median price when considering location/budget.<br>
+Outcome: On brand dashboard style report with logical search / filter process, key metrics clearly markets and a simple search reset function.<br>
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
