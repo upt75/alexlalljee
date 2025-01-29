@@ -31,7 +31,7 @@ Currently studying for <strong>Microsoft Fabric Analytics Engineer DP-600</stron
 <strong>Power BI Course (DataCamp)</strong>
 <strong>Industry Experience</strong>: Worked as an <strong>In-Ground Data Analyst at Stats Perform</strong>, responsible for real-time data collection and analytics.
 
-Currently working as consultant <string>BI Reporting Lead</string> for a UK based Tour Operator, I am looking for different opportunities to further my knowldge and experience whilst helping businesses unlock the power of data to make informed, strategic decisions. While I have a strong interest in the travel and tourism sector, I’m open to collaborations across various industries.
+Currently working as consultant <strong>BI Reporting Lead</strong> for a UK based Tour Operator, I am looking for different opportunities to further my knowldge and experience whilst helping businesses unlock the power of data to make informed, strategic decisions. While I have a strong interest in the travel and tourism sector, I’m open to collaborations across various industries.
 
 If you're looking for a data-driven problem solver with a blend of industry experience and technical expertise, let's connect!
 
