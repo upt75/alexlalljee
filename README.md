@@ -19,25 +19,27 @@
 
 Hi, I'm <strong>Alex Lalljee</strong>, a <strong>Microsoft Certified : Power BI Data Analyst Associate</strong>. Currently expanding my expertise by studying for the <strong>Microsoft Fabric Analytics Engineer DP-600</strong> certification. Here, you’ll find a collection of Power BI projects and interactive dashboards that highlight my skills in <strong>data visualization, business intelligence, and analytics</strong>. I’m passionate about transforming complex data into meaningful insights that drive informed decision-making.
 
-## What You’ll Find:
-Data Visualization: Explore visually compelling reports and visualizations that bring data to life. From bar charts to heatmaps, I’ve harnessed the power of Power BI to create engaging displays.
-
-Business Intelligence: Dive into my analyses of complex datasets. Whether it’s sales trends, customer behaviour, or operational efficiency, I’ve leveraged Power BI to uncover valuable business insights.
-
-Effective Communication: I believe that data storytelling is an art. Through intuitive dashboards, I’ve effectively communicated intricate data concepts to stakeholders, enabling informed decision-making.
-
-As you explore this portfolio, you’ll witness my commitment to excellence in Power BI. Whether you’re a fellow data enthusiast, a recruiter, or a potential collaborator, I invite you to delve into the world of data-driven possibilities.
-
-Feel free to connect with me—I’m always eager to discuss data challenges, collaborate on projects, or simply share insights over a virtual coffee!
-
 ## About Me
-With over 25 years of experience in project mangement with a focus on tourism, and a recent transition into data analytics, I bring a unique blend of skills to the table.
+With over <strong>25 years of experience in project management</strong>, primarily in the <strong>tourism industry</strong>, I bring a unique combination of <strong>business acumen and data analytics expertise</strong>. My career transition into data analytics has allowed me to blend strategic thinking with technical proficiency to extract <strong>valuable insights from complex datasets</strong>.
 
-My extensive background in the travel sector has given me a deep understanding of the industry’s dynamics, while my training in data analytics allows me to extract valuable insights from complex data sets. As a strategic thinker and practical implementer. I am self-motivated, pragmatic, and resilient, with an entrepreneurial spirit and a growth mindset. I am comfortable in both field and office environments and have a history of developing strong working relationships.
+## My Journey into Data Analytics:
+<strong>Technical Skills</strong>: Proficient in <strong>Power BI, SQL, Python, NumPy, Pandas, and Jupyter Notebooks</strong>.
+<strong>Certifications & Training</strong>:
+<strong>Microsoft Certified: Power BI Data Analyst Associate</strong>
+Currently studying for <strong>Microsoft Fabric Analytics Engineer DP-600</strong>
+<strong>Data Science Bootcamp (Le Wagon)</strong>
+<strong>Power BI Course (DataCamp)</strong>
+<strong>Industry Experience</strong>: Worked as an <strong>In-Ground Data Analyst at Stats Perform</strong>, responsible for real-time data collection and analytics.
 
-In the past year, I have focused on developing my technical skills, completing a Data Science Bootcamp at La Wagon and a course in Power BI at datacamp.com. I have then gone on to become a Microsoft Certified: Power BI Data Analyst Assocaite. I am also proficient in Python, SQL, Numpy, Pandas, and Jupyter notebooks. I have gained practical experience as an In-Ground Data Analyst at Stats Perform, where I was responsible for data collection and analytics.
+Currently working as consultant <string>BI Reporting Lead</string> for a UK based Tour Operator, I am looking for different opportunities to further my knowldge and experience whilst helping businesses unlock the power of data to make informed, strategic decisions. While I have a strong interest in the travel and tourism sector, I’m open to collaborations across various industries.
 
-I am now seeking opportunities as a freelance consultant, where I can apply my data analytics skills to help businesses make data-driven decisions. While I am particularly interested in roles within the travel sector, I am open to any opportunities.
+If you're looking for a data-driven problem solver with a blend of industry experience and technical expertise, let's connect!
+
+## What You’ll Find:
+<strong>Data Visualization</strong> – Engaging and insightful reports designed to bring data to life, leveraging Power BI’s full potential to communicate complex information clearly.
+<strong>Business Intelligence</strong> – In-depth analyses of sales trends, customer behavior, and operational performance to uncover valuable insights and optimize decision-making.
+<strong>Data Storytelling</strong> – I believe in making data actionable. My dashboards are designed to not just display numbers but to tell a compelling story that supports business strategy.
+Whether you’re a fellow data professional, a recruiter, or a potential collaborator, I invite you to explore my portfolio and see how I approach data-driven challenges. Feel free to connect—I’m always happy to discuss data insights, collaborate on projects, or exchange ideas over a virtual coffee!
 
 ## Airbnb Listing Analysis
 
