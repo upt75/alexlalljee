@@ -63,7 +63,7 @@ Outcome: On brand dashboard style report with logical search / filter process, k
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNTg2NjhiMmItMGQzYS00NDQ3LWE2MjgtYTdmYWYxYWIxODcwIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Airbnb Project Link</a> <br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiYTc4ZjA5YmEtZTMzNC00ZGJjLWIyMWQtZTdmOTJmOGNjZDE3IiwidCI6IjY2OThjZDlmLTZmODgtNGY3YS04ZTM4LTYxZDY1ZDk0OGY1ZSJ9" target="_blank" rel="noopener noreferrer">Airbnb Project Link</a> <br>
 
 ## E-commerce project
 
