@@ -89,7 +89,7 @@ Recommendations: Future cross-sale promotions, logistics related to shipping ite
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiYWFlYzdmMmUtNjcxNy00OTY2LTkwMWUtNGFiZjAzNGNmN2FkIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">E-Commerce Project Link</a> <br> <b>Report navigation is bottom centre of the page</b>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNTFhM2Q1NjUtMmQ2NS00MzBmLWE1ZDAtYzc5YjY3YTY2NzViIiwidCI6IjY2OThjZDlmLTZmODgtNGY3YS04ZTM4LTYxZDY1ZDk0OGY1ZSJ9" rel="noopener noreferrer">E-Commerce Project Link</a> <br> <b>Report navigation is bottom centre of the page</b>
 
 
 ## HR Analytics
@@ -114,7 +114,7 @@ Outcome: interactive and reusable report to support employee management and assi
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMjdjYmY3M2EtZGY5Mi00NzQyLWIxNGItZDYzZmVmZDczZTZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">HR Project Link</a><br><b>Report navigation is bottom centre of the page</b>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMzY4NTI4YWQtMDgwMy00MWUwLTllNDEtNjEzZmI2ZmEyY2FmIiwidCI6IjY2OThjZDlmLTZmODgtNGY3YS04ZTM4LTYxZDY1ZDk0OGY1ZSJ9" rel="noopener noreferrer">HR Project Link</a><br><b>Report navigation is bottom centre of the page</b>
 
 
 ## Competitor Analysis
@@ -154,4 +154,4 @@ Craft a data-driven story for end users’ informed decisions.
 
 To open the link in a new tab - <b>Windows & Linux users hold down Ctrl</b> while clicking the link, <b>Mac users hold down Cmd</b>
 
-<a href="https://app.powerbi.com/view?r=eyJrIjoiMzk0MTg2NzYtNGVjMS00NDQzLWFhMmMtMzA4NDJiOTk0MmZiIiwidCI6IjIyNWYzMWU3LThlMTMtNGJmOC1iNzViLTY2ZjcxMGFjMjYyMiJ9" target="_blank" rel="noopener noreferrer">Competitor Analysis Project Link</a><br><b>Report navigation is bottom centre of the page</b>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiOGMzZmQ0OGEtOGZmYS00ZjlkLThlM2QtNjVkN2EwZGI1NjNjIiwidCI6IjY2OThjZDlmLTZmODgtNGY3YS04ZTM4LTYxZDY1ZDk0OGY1ZSJ9" rel="noopener noreferrer">Competitor Analysis Project Link</a><br><b>Report navigation is bottom centre of the page</b>
